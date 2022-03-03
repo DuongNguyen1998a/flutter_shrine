@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
       minTextAdapt: true,
       splitScreenMode: true,
       builder: () => GetMaterialApp(
-        title: 'Flutter Demo',
+        title: 'Flutter Demo Ahihi nè',
         theme: kShrineTheme,
         debugShowCheckedModeBanner: false,
         home: box.read('USERNAME') != null
